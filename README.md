@@ -1,9 +1,5 @@
-# Poker Table Manager
+# Poker Table Manager 1.1
 
-Aplicación web instalable (PWA) para repartir fichas y controlar ciegas.
+PWA para Android, iOS y Windows. Incluye 7 idiomas, selector manual y traducciones disponibles sin conexión.
 
-Publicación: Settings → Pages → Build and deployment → Deploy from a branch → main / (root) → Save.
-
-Dirección prevista: https://veraguiv-ctrl.github.io/poker-table-manager/
-
-© 2026 Veraguiv.
+Sube **todos los archivos** de esta carpeta a la raíz del repositorio de GitHub Pages. Sustituye los existentes. No borres la configuración guardada de los usuarios.
