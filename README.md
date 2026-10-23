@@ -1,5 +1,3 @@
-# Poker Table Manager 1.1.1
-
-Nombre de aplicación fijo en inglés y aviso de derechos traducido automáticamente por i18n.js. Subir todos los archivos a la raíz del repositorio GitHub Pages.
-
-Versión 1.1.2: reparto por colores adaptable a móvil sin desplazamiento horizontal.
+Poker Table Manager v1.1.3 — Icono oficial y logotipo en la pantalla de inicio.
+Sube los archivos descomprimidos a la raíz del repositorio GitHub Pages.
+Nota: en dispositivos ya instalados, el icono del sistema puede requerir reinstalar el acceso directo.
