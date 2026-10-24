@@ -9,3 +9,5 @@ Incluye mejoras de navegación, temporizador flotante, ronda inicial, configurac
 - Icono de pausa con barras rectangulares.
 - Pantalla completa mantenida al navegar por las pantallas, con botón de salida accesible.
 - Caché PWA renovada a v1.2.2.
+
+Versión 1.2.3: salida de pantalla completa compacta en esquina superior derecha en todas las vistas; iconos de pausa y play con idéntico tamaño.
