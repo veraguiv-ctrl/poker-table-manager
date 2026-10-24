@@ -1,1 +1,4 @@
-Poker Table Manager 1.2.0 — mejoras de temporizador, reinicio, idioma y avisos. Subir los siete archivos al directorio raíz del repositorio GitHub Pages.
+Poker Table Manager v1.2.1
+
+Subir el contenido de este ZIP a la raíz del repositorio GitHub Pages, sustituyendo los archivos anteriores.
+Incluye mejoras de navegación, temporizador flotante, ronda inicial, configuración y guía de manos.
