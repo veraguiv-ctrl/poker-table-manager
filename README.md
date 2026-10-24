@@ -1,5 +1,5 @@
-Poker Table Manager v1.3.1 - fuente editable (privado)
+Poker Table Manager 1.3.0 — código fuente editable.
 
-Basado en v1.3.0 validada. Nueva ventana Configuración de interfaz con vistas previas de tres tapetes, tres estilos de fichas, dos tipografías e idioma. Explicación breve visible en portada. Preferencias locales; funcionamiento offline.
-
-Conservar este paquete en repositorio privado. La ofuscación/minificación definitiva y la validación multiplataforma aún están pendientes. No publicar código fuente editable si se desea mantenerlo privado.
+No publicar este directorio como repositorio de desarrollo. Distribuir solo el paquete público.
+Incluye temas, estilos de fichas, ayudas contextuales y comprobación manual de actualizaciones.
+La arquitectura Premium aún NO incorpora licencias ni pagos.
