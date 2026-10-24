@@ -1,12 +1,20 @@
-# Poker Table Manager 1.3.4 — distribución pública
+# Poker Table Manager 1.3.4 — código fuente privado
 
-Este ZIP contiene únicamente los archivos necesarios para GitHub Pages.
-Descomprimir y subir el contenido (NO el propio ZIP) a la raíz del repositorio público.
-No subir aquí la carpeta de desarrollo ni archivos *.map o secretos.
-Si el repositorio público contiene una copia anterior de `i18n.js`, elimínala: la nueva versión usa `i18n.min.js`.
-Atención: eliminar archivos NO elimina el historial público de GitHub; anteriores versiones del código pueden seguir accesibles por el historial del repositorio.
+Esta es la versión original editable de la aplicación, derivada de la 1.3.3 comprobada en Windows, Android y iPhone.
+Incluye todos los archivos necesarios para funcionar como PWA sin conexión.
 
-El código JavaScript está compactado y ofuscado a nivel de cadenas para dificultar la lectura casual.
-Esta protección no constituye DRM, evita poco frente a usuarios expertos y no sustituye licencias validadas en un servidor.
+## Archivos principales
+- `index.html`: estructura, estilos y lógica de la partida.
+- `i18n.js`: traducciones a siete idiomas.
+- `sw.js`: caché del servicio offline.
+- `manifest.webmanifest`, iconos y `version.json`: instalación y versiones.
 
-© 2026 Veraguiv. Todos los derechos reservados.
+## Publicación
+No publiques este archivo ZIP ni este código fuente en un repositorio público.
+Para GitHub Pages emplea solo el ZIP de distribución pública de la misma versión.
+Mantén este original en un repositorio PRIVADO y guarda una copia local.
+
+## Alcance de protección
+La distribución pública dificulta la lectura y copia directa del JavaScript, pero NO es una barrera de seguridad ni impide la ingeniería inversa. No contiene claves ni contraseñas. El control de acceso a futuras funciones Premium requerirá un backend.
+
+Copyright © 2026 Veraguiv. Todos los derechos reservados.
