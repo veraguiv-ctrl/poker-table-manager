@@ -1,0 +1,5 @@
+Poker Table Manager — Copyright © 2026 Veraguiv. Todos los derechos reservados.
+
+El código fuente se proporciona únicamente para su conservación y desarrollo por su titular o personas expresamente autorizadas. Su publicación, redistribución comercial, venta o modificación por terceros requiere autorización previa y expresa del titular.
+
+Esta licencia no supone una garantía de protección frente a la inspección o copia del software distribuido a clientes.
