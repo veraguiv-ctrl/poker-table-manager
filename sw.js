@@ -1,4 +1,4 @@
-const CACHE = 'poker-table-manager-v1.3.6';
+const CACHE = 'poker-table-manager-v1.3.7';
 const FILES = ['./', './index.html', './app.min.js', './i18n.min.js', './manifest.webmanifest', './icon-192.png', './icon-512.png', './version.json'];
 self.addEventListener('install', event => { event.waitUntil(caches.open(CACHE).then(cache => cache.addAll(FILES)).then(() => self.skipWaiting())); });
 self.addEventListener('activate', event => { event.waitUntil(caches.keys().then(keys => Promise.all(keys.filter(key => key !== CACHE).map(key => caches.delete(key)))).then(() => self.clients.claim())); });

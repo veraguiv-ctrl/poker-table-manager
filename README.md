@@ -1,4 +1,4 @@
-# Poker Table Manager 1.3.6 — distribución pública
+# Poker Table Manager 1.3.7 — distribución pública
 
 Este ZIP contiene únicamente los archivos necesarios para GitHub Pages.
 Descomprimir y subir el contenido (NO el propio ZIP) a la raíz del repositorio público.
