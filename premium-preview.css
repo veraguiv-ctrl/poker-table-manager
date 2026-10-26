@@ -1,0 +1,27 @@
+/* PokerTM FREE · Promotional preview. Does not alter the core game UI. */
+.premiumInvite{display:flex;align-items:center;gap:13px;max-width:850px;margin:2px auto 17px;padding:12px 14px;border:1px solid #9a7846;border-radius:13px;background:linear-gradient(110deg,#26362b,#162820);text-align:left;box-shadow:0 5px 17px #0003}
+.premiumInviteMark{display:grid;place-items:center;flex:0 0 39px;height:39px;border-radius:10px;color:#17261c;font-size:24px;background:#e5c078}
+.premiumInviteCopy{display:flex;flex-direction:column;gap:3px;flex:1;min-width:0}
+.premiumInviteCopy strong{font-size:15px;color:#f2d18c;letter-spacing:.015em}
+.premiumInviteCopy span{font-size:12px;color:#b9cbbd;line-height:1.4}
+button.premiumInviteButton{display:inline-flex;align-items:center;gap:10px;justify-content:center;padding:9px 12px;min-height:41px;margin:0;border:1px solid #c5a061!important;color:#f7dda4!important;background:#394331!important;border-radius:9px;box-shadow:none!important;font-size:12px;font-weight:800;white-space:nowrap}
+.premiumInviteButton span{font-size:20px;line-height:1}
+.premiumPreviewOverlay[hidden]{display:none!important}
+.premiumPreviewOverlay{position:fixed;inset:0;z-index:1500;background:#000c;display:flex;align-items:center;justify-content:center;padding:clamp(8px,2vw,20px);box-sizing:border-box;backdrop-filter:blur(5px)}
+.premiumPreviewDialog{box-sizing:border-box;max-height:calc(100dvh - 16px);overflow:auto;overscroll-behavior:contain;max-width:1000px;width:100%;background:#0e1c17;border:1px solid #b99558;border-radius:17px;padding:clamp(14px,2vw,24px);box-shadow:0 24px 70px #000b;color:#f3f3eb}
+.premiumPreviewTop{display:flex;gap:15px;align-items:flex-start;justify-content:space-between;margin-bottom:19px}
+.premiumPreviewEyebrow{font-size:10px;letter-spacing:.16em;color:#e7bd73;font-weight:850}
+.premiumPreviewTop h2{font-size:clamp(22px,2.7vw,32px);margin:5px 0;color:#f3d594;line-height:1.2}
+.premiumPreviewTop p{font-size:13px;color:#b7c7bc;line-height:1.5;margin:4px 0 0;max-width:740px}
+button.premiumPreviewClose{flex:0 0 39px;width:39px;height:39px;margin:0;padding:0;border:1px solid #57715e;border-radius:9px;background:#23392e!important;box-shadow:none!important;color:#e4e9df!important;font-size:19px}
+.premiumFeatures{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:14px}
+.premiumFeature{min-width:0;overflow:hidden;border:1px solid #4b6652;border-radius:12px;background:#162920}
+.premiumFeature img{display:block;width:100%;height:auto;aspect-ratio:1000/590;object-fit:contain;background:#101f18}
+.premiumFeature>div{padding:12px 14px 14px}
+.premiumFeature h3{font-size:15px;color:#f3cf88;margin:0 0 4px;font-weight:800}
+.premiumFeature p{font-size:12px;color:#bdcdbf;margin:0;line-height:1.45}
+.premiumPreviewBottom{display:flex;align-items:center;gap:20px;justify-content:space-between;border-top:1px solid #395541;padding-top:16px;margin-top:18px}
+.premiumPreviewBottom p{font-size:12px;color:#b7c7bc;line-height:1.45;margin:0;max-width:640px}
+button.premiumPreviewDone{flex:0 0 auto;background:linear-gradient(150deg,#f1d69a,#dcb56c)!important;color:#18221a!important;padding:12px 14px;margin:0;font-size:13px;border:1px solid #f6dfa9!important;border-radius:10px!important;box-shadow:none!important}
+@media(max-width:640px){.premiumInvite{flex-wrap:wrap;padding:10px;gap:10px}.premiumInviteCopy{flex:1 1 calc(100% - 58px)}button.premiumInviteButton{margin-left:49px;flex:1 1 auto;min-height:42px}.premiumFeatures{grid-template-columns:1fr;gap:12px}.premiumPreviewBottom{align-items:stretch;flex-direction:column;gap:12px}.premiumPreviewTop h2{font-size:24px}.premiumFeature>div{padding:10px 12px 12px}}
+@media(prefers-reduced-motion:reduce){.premiumPreviewDialog,.premiumInvite{scroll-behavior:auto}}

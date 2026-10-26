@@ -1,12 +1,15 @@
-# Poker Table Manager 1.3.7 — distribución pública
+# Poker TM — Gratis v1.3.8 · Distribución web
 
-Este ZIP contiene únicamente los archivos necesarios para GitHub Pages.
-Descomprimir y subir el contenido (NO el propio ZIP) a la raíz del repositorio público.
-No subir aquí la carpeta de desarrollo ni archivos *.map o secretos.
-Si el repositorio público contiene una copia anterior de `i18n.js`, elimínala: la nueva versión usa `i18n.min.js`.
-Atención: eliminar archivos NO elimina el historial público de GitHub; anteriores versiones del código pueden seguir accesibles por el historial del repositorio.
+Subir el CONTENIDO de este ZIP (archivos descomprimidos) a la raíz
+GitHub Pages; no subir el ZIP directamente.
 
-El código JavaScript está compactado y ofuscado a nivel de cadenas para dificultar la lectura casual.
-Esta protección no constituye DRM, evita poco frente a usuarios expertos y no sustituye licencias validadas en un servidor.
+Mantiene las funciones de Poker Table Manager 1.3.7.
+Incluye modernización visual y una galería ilustrativa de futuras ventajas Premium.
+No incluye Premium, publicidad, compras ni cuentas.
 
-© 2026 Veraguiv. Todos los derechos reservados.
+JavaScript de distribución compactado/ofuscado: app.min.js, i18n.min.js y premium-preview.min.js.
+Esta protección no impide ingeniería inversa. No hay secretos ni claves de pago en el navegador.
+
+Eliminar del repositorio público cualquier archivo antiguo de código fuente, como
+app.js, i18n.js, premium-preview.js o documentación interna, si existiera.
+No publicar el ZIP de código privado.

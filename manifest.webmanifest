@@ -1,6 +1,6 @@
 {
-  "name": "Poker Table Manager",
-  "short_name": "Poker Manager",
+  "name": "Poker TM — Gratis",
+  "short_name": "Poker TM",
   "description": "Gestión de fichas, reparto y niveles de ciegas para partidas de póker.",
   "lang": "es",
   "start_url": "./",
